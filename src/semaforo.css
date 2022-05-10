@@ -1,0 +1,34 @@
+#contenedor{
+    width: 25%;
+    height: 30rem;
+    background-color: black;
+    margin: 0 auto;
+    border-radius:50px;
+    padding-top: 1rem;
+    margin-top: 1rem;
+}
+#red{
+    width: 9rem;
+    height: 9rem;
+    background-color: rgb(58, 3, 3);
+    border-radius:50%;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
+#yellow{
+    width: 9rem;
+    height: 9rem;
+    background-color: rgb(51, 51, 3);
+    border-radius:50%;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
+#green{
+    width: 9rem;
+    height: 9rem;
+    background-color: rgb(1, 37, 1);
+    border-radius:50%;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
+
